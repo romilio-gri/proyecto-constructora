@@ -1,5 +1,13 @@
-title: Architect theme
-description: Architect is a theme for GitHub Pages.
+#title: EXAMEN FINAL INTRODUCCION A LOS SISTEMAS DE COMPUTO
+#description: ROMILIO GRIJALVA
+#plugins: jekyll-seo-tag
+#show_downloads: true
+#url: "https://ul.waze.com/ul?ll=14.24205644%2C-89.91210938&navigate=yes&zoom=6&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+title: "EXAMEN FINAL INTRODUCCION A LOS SISTEMAS DE COMPUTO"
+description: "ROMILIO GRIJALVA"
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-architect
+url: "https://ul.waze.com/ul?ll=14.24205644%2C-89.91210938&navigate=yes&zoom=6&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+
+plugins:
+  - jekyll-seo-tag
+
